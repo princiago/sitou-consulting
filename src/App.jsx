@@ -44,7 +44,7 @@ export default function App() {
       <section id="contact" className="section">
         <h2>Contact</h2>
         <p>1201 W Peachtree St NW, Suite 2625, Atlanta, GA 30309</p>
-        <p>(404) 452-7751</p>
+        <p>(470) 833-5785</p>
         <p>contact@sitouconsulting.com</p>
       </section>
 
